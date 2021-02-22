@@ -1,0 +1,15 @@
+D:\Document\CsApp\GuessNumber\GuessNumber\obj\Debug\GuessNumber.csprojAssemblyReference.cache
+D:\Document\CsApp\GuessNumber\GuessNumber\obj\Debug\MainWindow.g.cs
+D:\Document\CsApp\GuessNumber\GuessNumber\obj\Debug\App.g.cs
+D:\Document\CsApp\GuessNumber\GuessNumber\obj\Debug\GuessNumber_MarkupCompile.cache
+D:\Document\CsApp\GuessNumber\GuessNumber\obj\Debug\GuessNumber_MarkupCompile.lref
+D:\Document\CsApp\GuessNumber\GuessNumber\bin\Debug\GuessNumber.exe.config
+D:\Document\CsApp\GuessNumber\GuessNumber\bin\Debug\GuessNumber.exe
+D:\Document\CsApp\GuessNumber\GuessNumber\bin\Debug\GuessNumber.pdb
+D:\Document\CsApp\GuessNumber\GuessNumber\obj\Debug\MainWindow.baml
+D:\Document\CsApp\GuessNumber\GuessNumber\obj\Debug\GuessNumber.g.resources
+D:\Document\CsApp\GuessNumber\GuessNumber\obj\Debug\GuessNumber.Properties.Resources.resources
+D:\Document\CsApp\GuessNumber\GuessNumber\obj\Debug\GuessNumber.csproj.GenerateResource.cache
+D:\Document\CsApp\GuessNumber\GuessNumber\obj\Debug\GuessNumber.csproj.CoreCompileInputs.cache
+D:\Document\CsApp\GuessNumber\GuessNumber\obj\Debug\GuessNumber.exe
+D:\Document\CsApp\GuessNumber\GuessNumber\obj\Debug\GuessNumber.pdb
